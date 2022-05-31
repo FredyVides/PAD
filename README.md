@@ -1,5 +1,5 @@
 # PAD
-Projective Anomaly Detection Method
+A Python implementation of a projective anomaly detection method.
 
 ## References 
 
